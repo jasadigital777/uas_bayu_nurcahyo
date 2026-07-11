@@ -1,17 +1,54 @@
-# uas_bayu
+# Koperasi Merah Putih
 
-A new Flutter project.
+## Nama Mahasiswa
+Nama : Bayu Nurcahyo
+NIM : BD2303007
 
-## Getting Started
+## Judul
+Aplikasi Koperasi Merah Putih
 
-This project is a starting point for a Flutter application.
+## Deskripsi
+Aplikasi Koperasi Merah Putih merupakan aplikasi berbasis Flutter yang digunakan untuk membantu pengelolaan koperasi secara digital. Aplikasi menyediakan layanan penjualan produk sembako, simpanan anggota, serta pinjaman anggota menggunakan database lokal Hive.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
+- Splash Screen
+- Onboarding
+- Login
+- Dashboard
+- CRUD Produk
+- CRUD Simpanan
+- CRUD Pinjaman
+- Logout
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Alur Aplikasi
+1. Splash Screen
+2. Onboarding
+3. Login
+4. Dashboard
+5. Kelola Produk
+6. Kelola Simpanan
+7. Kelola Pinjaman
+8. Logout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+
+### Onboarding
+https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss-,onboarding,-.png
+
+### Dashboard
+https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss-,dashboard,-.png
+
+### CRUD Produk
+https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss%20sembako-,.,-png
+
+### CRUD Simpanan
+https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss%20simpanan.-,png,-uas_bayu.iml
+
+### CRUD Pinjaman
+https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss-,pinjaman,-.png
+
+## Teknologi
+- Flutter
+- Dart
+- Isar Database
+- Material Design 3
