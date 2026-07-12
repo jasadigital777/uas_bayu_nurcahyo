@@ -8,7 +8,7 @@ NIM : BD2303007
 Aplikasi Koperasi Merah Putih
 
 ## Deskripsi
-Aplikasi Koperasi Merah Putih merupakan aplikasi berbasis Flutter yang digunakan untuk membantu pengelolaan koperasi secara digital. Aplikasi menyediakan layanan penjualan produk sembako, simpanan anggota, serta pinjaman anggota menggunakan database lokal Hive.
+Aplikasi Koperasi Merah Putih merupakan aplikasi berbasis Flutter yang digunakan untuk membantu pengelolaan koperasi secara digital. Aplikasi menyediakan layanan penjualan produk sembako, simpanan anggota, serta pinjaman anggota menggunakan database isar.
 
 ## Fitur
 - Splash Screen
