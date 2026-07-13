@@ -39,8 +39,8 @@ Aplikasi Koperasi Merah Putih merupakan aplikasi berbasis Flutter yang digunakan
 [https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss-,dashboard,-.png](https://github.com/jasadigital777/uas_bayu_nurcahyo/blob/main/ss%20dashboard.png)
 
 ### CRUD Produk
-https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss%20sembako-,.,-png
-
+[https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss%20sembako-,.,-png
+](https://github.com/jasadigital777/uas_bayu_nurcahyo/blob/main/ss%20sembako.png)
 ### CRUD Simpanan
 https://github.com/jasadigital777/uas_bayu_nurcahyo/edit/main/README.md#:~:text=ss%20simpanan.-,png,-uas_bayu.iml
 
